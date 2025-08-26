@@ -24,4 +24,6 @@ This website showcases:
 - **GitHub:** [github.com/ameerah-da](https://github.com/ameerah-da)  
 
 
+![Portfolio Screenshot]("C:\Users\hp\Downloads\Black Yellow Modern Company Logo.png")
+
 
