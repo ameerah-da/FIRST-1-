@@ -24,7 +24,7 @@ This website showcases:
 - **GitHub:** [github.com/ameerah-da](https://github.com/ameerah-da)  
 
 
-![Portfolio Screenshot](<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/dd685586-3122-4690-ba23-557bc8b1f642" />
+#[Portfolio Screenshot](<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/dd685586-3122-4690-ba23-557bc8b1f642" />
 )
 
 
