@@ -11,6 +11,7 @@ This website showcases:
 - Contact information
 
 ---
+![Portfolio Screenshot](screenshot.png)
 
 ## 🛠️ Technologies Used
 - HTML5  
