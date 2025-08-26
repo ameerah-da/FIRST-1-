@@ -1,5 +1,5 @@
-# Ameerah Al Tamimi – Portfolio Website 🌐
-
+# Portfolio Website 🌐
+![Portfolio Screenshot](screenshot.png)
 This is my personal **portfolio website** built using **HTML** and **CSS**, and hosted with **GitHub Pages**.  
 
 👉 Live website: [https://ameerah-da.github.io]( https://ameerah-da.github.io/FIRST-1-/)
@@ -11,8 +11,6 @@ This website showcases:
 - Contact information
 
 ---
-![Portfolio Screenshot](screenshot.png)
-
 ## 🛠️ Technologies Used
 - HTML5  
 - CSS3  
