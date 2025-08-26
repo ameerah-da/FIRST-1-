@@ -1,2 +1,1 @@
-# ameerah-
 data projects 
