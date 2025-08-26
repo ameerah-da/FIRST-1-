@@ -2,7 +2,7 @@
 
 This is my personal **portfolio website** built using **HTML** and **CSS**, and hosted with **GitHub Pages**.  
 
-👉 Live website: [https://ameerah-da.github.io](https://ameerah-da.github.io)
+👉 Live website: [https://ameerah-da.github.io]( https://ameerah-da.github.io/FIRST-1-/)
 
 ## 📖 About
 This website showcases:
