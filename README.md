@@ -18,12 +18,6 @@ This website showcases:
 - GitHub Pages  
 ---
 
-## 📸 Screenshot
-![Portfolio Screenshot](screenshot.png)  
-*(You can upload a screenshot of your website and name it `screenshot.png` to show it here.)*
-
----
-
 ## 📬 Contact
 - **Email:** ameerah.xx9@gmail.com  
 - **LinkedIn: [linkedin.com/in/ameerah](https://www.linkedin.com/in/ameerah-altamimi-49341126a/)  
